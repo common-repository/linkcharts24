@@ -1,0 +1,24 @@
+########################################################################################
+#
+# LinkCharts24
+# (c) 2008 by Sebastian Schwaner
+#
+# FILE: linkcharts24.php
+# VERSION: 0.1.1
+#
+# DESC:LinkCharts24 calculates a ranking of your outgoing links from all of
+# your postings.
+#
+# FROM: sit. small it-solutions
+# AUTHOR: Sebastian Schwaner
+#
+########################################################################################
+
+CHANGE.LOG
+
+May 23rd, 2008:
+     + version 0.1.1 released
+     + fixing readme.txt
+
+May 17th, 2008:
+     + Version 0.1.0 released
